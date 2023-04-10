@@ -51,7 +51,8 @@ npm start
 # 🔎 Additional details
 
 ### Notes
->This project was done in a group
+>This project was done in a group<br/>
+>This project don't have a backend/database system
 
 <br>
  <details>
@@ -62,7 +63,17 @@ npm start
 - [Fernando Barreto Costa](https://github.com/fernando-costa);
 - [Arthur Debiasi](https://github.com/arthur-debiasi);
   
-  </details>
+  </details><br/>
+
+  <details>
+    <summary><strong>✏️ What i learned</strong></summary>
+* Team work.
+* Kanban methodology.
+* Use context API for a large project.
+* Test an APP that consumes APIs.
+* Use React Hooks: useState, useEffect and useContext.
+  
+  </details><br/>
 
   <details>
     <summary><strong>🔗 Used APIs</strong></summary>
