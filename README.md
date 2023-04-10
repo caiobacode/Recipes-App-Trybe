@@ -50,7 +50,7 @@ npm start
 
 # 🔎 Additional details
 
-## Notes
+### Notes
 >This project was done in a group
 
 <br>
