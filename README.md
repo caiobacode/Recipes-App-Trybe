@@ -47,3 +47,25 @@ npm start
 [Git-url]: https://git-scm.com
 [NPM]: https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white
 [NPM-url]: https://www.npmjs.com
+
+# 🔎 Additional details
+
+## Notes
+>This project was done in a group
+
+<br>
+ <details>
+    <summary><strong>👥 Team members</strong></summary>
+
+- [Sérgio Ruza](https://github.com/sergioruza);
+- [Lilian Alves Durães](https://github.com/LilianAlvesDuraes);
+- [Fernando Barreto Costa](https://github.com/fernando-costa);
+- [Arthur Debiasi](https://github.com/arthur-debiasi);
+  
+  </details>
+
+  <details>
+    <summary><strong>🔗 Used APIs</strong></summary>
++ [TheMealDB-API](https://www.themealdb.com/) -  API usada.
++ [TheCocktailDB-API](https://www.thecocktaildb.com/) -  API usada.
+  </details>
